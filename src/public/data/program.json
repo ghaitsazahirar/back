@@ -1,0 +1,35 @@
+{
+  "Integrated Farming": [
+    {
+      "id": 1,
+      "img": "assets/img/hasilIntegrated.jpeg",
+      "tanggal": "29 September 2023",
+      "title": "HASIL PROGRAM INTEGRATED FARMING",
+      "content": "Berikut adalah contoh dari hasil pengelolaan integrated farming yang kami lakukan. dalam pengelolaan integrated farming, kami bisa menghasilkan beberapa sayuran seperti kangkung, terong dan yang lainnya. kemudian, kami juga mengelola bagian perikanan. pola perikanan yang kami kelola adalah dengan cara .... perikanan yang kami kembangkan sejauh ini adalah lele, tetapi kami mengganti produk ikannya menjadi nila baru-baru ini sebagai uji coba produk yang baru."
+    },
+    {
+      "id": 2,
+      "img": "assets/img/prosesIntegrated.jpeg",
+      "tanggal": "29 September 2023",
+      "title": "PROSES INTEGRATED FARMING",
+      "content": "Dalam proses ini, kami melakukan penanaman tanaman serta pembibitan ikan. Dalam proses ini kami juga mengadakan kerja bakti bersama warga untuk bekerja sama dalam kerja bakti untuk menyiapkan lokasi perkebunan yang dibarengi oleh pengolaahan sampah mingguan. "
+    }
+  ],
+  "Pengolahan Sampah": [
+    {
+      "id": 3,
+      "img": "assets/img/proses.jpg",
+      "tanggal": "29 September 2023",
+      "title": "PROSES PENGOLAHAN SAMPAH",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    },
+    {
+      "id": 4,
+      "img": "assets/img/hasil2.jpg",
+      "tanggal": "29 September 2023",
+      "title": "HASIL PENGOLAHAN SAMPAH",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    }
+  ],
+  "exampleCategory": []
+}

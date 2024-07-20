@@ -1,0 +1,88 @@
+{
+  "harian": [
+    {
+      "id": 1,
+      "img": "assets/svg/kegiatan-1.svg",
+      "tanggal": "29 September 2023",
+      "title": "Ini kegiatan harian",
+      "description": "Kamu akan belajar dan mempraktikkan cara memisahkan sampah. Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat.",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    },
+    {
+      "id": 2,
+      "img": "assets/svg/kegiatan-1.svg",
+      "tanggal": "29 September 2023",
+      "title": "Jenis-Jenis Sampah dan Cara Pengelolaanya",
+      "description": "Kamu akan belajar dan mempraktikkan cara memisahkan sampah. Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat.",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    },
+    {
+      "id": 3,
+      "img": "assets/svg/kegiatan-1.svg",
+      "tanggal": "29 September 2023",
+      "title": "Jenis-Jenis Sampah dan Cara Pengelolaanya",
+      "description": "Kamu akan belajar dan mempraktikkan cara memisahkan sampah. Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat.",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    }
+  ],
+  "mingguan": [
+    {
+      "id": 4,
+      "img": "assets/svg/kegiatan-1.svg",
+      "tanggal": "29 September 2023",
+      "title": "Ini kegiatan mingguan",
+      "description": "Kamu akan belajar dan mempraktikkan cara memisahkan sampah. Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat.",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    },
+    {
+      "id": 5,
+      "img": "assets/svg/kegiatan-1.svg",
+      "tanggal": "29 September 2023",
+      "title": "Jenis-Jenis Sampah dan Cara Pengelolaanya",
+      "description": "Kamu akan belajar dan mempraktikkan cara memisahkan sampah. Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat.",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    },
+    {
+      "id": 6,
+      "img": "assets/svg/kegiatan-1.svg",
+      "tanggal": "29 September 2023",
+      "title": "Jenis-Jenis Sampah dan Cara Pengelolaanya",
+      "description": "Kamu akan belajar dan mempraktikkan cara memisahkan sampah. Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat.",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    }
+  ],
+  "bulanan": [
+    {
+      "id": 7,
+      "img": "assets/svg/kegiatan-1.svg",
+      "tanggal": "29 September 2023",
+      "title": "Ini kegiatan bulanan",
+      "description": "Kamu akan belajar dan mempraktikkan cara memisahkan sampah. Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat.",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    },
+    {
+      "id": 8,
+      "img": "assets/svg/kegiatan-1.svg",
+      "tanggal": "29 September 2023",
+      "title": "Jenis-Jenis Sampah dan Cara Pengelolaanya",
+      "description": "Kamu akan belajar dan mempraktikkan cara memisahkan sampah. Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat.",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    },
+    {
+      "id": 9,
+      "img": "assets/svg/kegiatan-1.svg",
+      "tanggal": "29 September 2023",
+      "title": "Jenis-Jenis Sampah dan Cara Pengelolaanya",
+      "description": "Kamu akan belajar dan mempraktikkan cara memisahkan sampah. Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat.",
+      "content": "Artikel ini akan membahas berbagai jenis sampah dan metode pengelolaannya untuk menjaga lingkungan tetap bersih dan sehat. Pada artikel ini, kamu akan mendapatkan informasi mengenai berbagai jenis sampah, mulai dari sampah organik hingga sampah non-organik seperti plastik, kertas, dan logam. Selain itu, akan dijelaskan pula bagaimana cara yang tepat untuk memisahkan sampah-sampah tersebut agar proses daur ulang dapat berjalan dengan efektif. Pengetahuan ini penting untuk mengurangi jumlah sampah yang berakhir di tempat pembuangan akhir dan untuk mendukung upaya pelestarian lingkungan."
+    },
+    {
+      "id": "2",
+      "img": "example2.jpg",
+      "tanggal": "2024-07-19",
+      "title": "New Kegiatan Title",
+      "description": "New Kegiatan Description",
+      "content": "New Kegiatan Content"
+    }
+  ]
+}
